@@ -1,5 +1,3 @@
-# PORTFOLIO
-
 ### О себе
 
 ![literally me](image.png)
